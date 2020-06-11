@@ -1,4 +1,4 @@
 version: 1.2
-workflows:
-   - subclass: NFL
+workflow:
+   - subbass: NFL
      primaryDescriptorPath: /nextflow.config
